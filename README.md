@@ -8,7 +8,8 @@ Una suite fintech de desarrollo y auditoría de medios de pago, creada por **Kin
 
 - **Nombre Oficial:** **LotusCard // DevSuite**
 - **Autor / Creador:** **Kinglotusp**
-- **Comunidad:** **El Reyno de Loto** (Telegram)
+- **Comunidad Oficial:** [El Reyno de Loto (Telegram)](https://t.me/addlist/wigY-9BP0cEwMDMx)
+- **Demo en Vivo (24/7):** [https://lotuscard-devsuite.vercel.app](https://lotuscard-devsuite.vercel.app)
 - **Tema Visual Insignia:** *Royal Purple, Obsidian & Amber Gold* con flor de loto sagrada en SVG y efectos de brillo resplandeciente.
 
 ---
